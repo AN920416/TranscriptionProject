@@ -5,8 +5,8 @@ Final project for Spring 2022 Programming(ECON 1024)
 1. 輸入音訊，輸出樂譜與節拍，有多種濾鏡與表現方式(CQT, onset, Chroma_stft)，可做為轉譜基礎，也可用於走音偵測。
 2. 輸入語音，輸出語音高低起伏，可用於分析人聲組成。
 ## 使用方式：
-執行 PackageInstall.py 安裝所需套件  
-執行 Transcription.py  
+首先執行 PackageInstall.py 安裝所需套件  
+再執行 Transcription.py(如出現套件未安裝的錯誤需重複上一步驟數次)  
   
 Open：開啟音訊檔案，提供三個檔案作為範例，支援.mp3 與 .wav。  
 Analyze：輸出轉換後的圖表。  
